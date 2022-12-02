@@ -8,6 +8,15 @@ https://bigpel66.oopy.io/library/42/inner-circle/20#23a4fd13e6e74f53a90eba593f4d
 
 
 
+
+
+
+DOCKER COMPOSE : https://docs.docker.com/compose/compose-file/#network-configuration-reference
+
+
+
+
+
 1-Alpin linux
 
     apk flags : 
