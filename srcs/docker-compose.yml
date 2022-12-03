@@ -1,0 +1,19 @@
+version: '3'
+
+services:
+  mariadb:
+    image: sw
+    build: requirements/mariadb
+    volumes:
+      - db_data:/var/lib/mysql
+    restart: always
+    expose:
+      - "3306"
+    environment:
+  wordpress:
+
+
+
+
+  nginx:
+
