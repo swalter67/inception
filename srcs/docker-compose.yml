@@ -9,11 +9,29 @@ services:
     restart: always
     expose:
       - "3306"
-    environment:
+    environment: .env
   wordpress:
 
 
 
 
+
   nginx:
+
+networks:
+    network
+
+volumes:
+  db:
+    driver: local
+    driver_opts:
+      type: none
+      device: /home/swalter/data/db
+      o: blind
+  wp:
+    driver: local
+    driver_opts:
+      tyoe: none
+      device: /home/swalter/data/wordpress
+      o: blind
 

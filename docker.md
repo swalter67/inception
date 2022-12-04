@@ -49,3 +49,4 @@ CREATE DATABASE IF NOT EXISTS databasename;
 GRANT ALL ON databasename.* TO myuser@'%';
 Adjust myuser, databasename and passwords as needed.
 
+https://codebeautify.org/yaml-validator  :validation docker-compose

@@ -35,3 +35,7 @@ https://mariadb.com/kb/en/mariadb-package-repository-setup-and-usage/
 
 
 https://mariadb.com/kb/en/configuring-mariadb-with-option-files/
+
+3 - Wordpress
+
+    wp-cli
